@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/QvI9g6fB4lW2E/giphy.gif" width="150" height="150">
-  <h1>Olá! Sou [Seu Nome] 👋</h1>
+  <h1>Olá! Sou Gustavo Henrique 👋</h1>
   <h3>Desenvolvedor de Software</h3>
 </div>
 
