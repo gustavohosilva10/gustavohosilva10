@@ -32,6 +32,6 @@ Sou apaixonado por construir soluções robustas e escaláveis, e estou sempre e
 
 ### Contato
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/gustavo-henrique-desenvolvedor-php-react-native/)
+- 💼 (https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/gustavo-henrique-desenvolvedor-php-react-native/)
 - 📧 [Seu Email](mailto:gus.tiule@hotmail.com)
 - 🌐 [Seu Site Pessoal](https://seu-site.com.br)
